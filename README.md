@@ -1,18 +1,16 @@
-<!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Hi%2C%20I'm%20YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" alt="header" width="100%"/>
+<h1>Hi, I'm Bhoomika B K 👋</h1>
 
 <a href="https://github.com/bhoomikabk11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+projects;Django+%2B+Python+Developer;Exploring+Machine+Learning+%26+Computer+Vision;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Deep+Learning+%26+Computer+Vision+Enthusiast;Full-Stack+Developer+(Django+%2B+Firebase);Building+AI+for+Healthcare;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bhoomika-b-k-9210892bb"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/bhoomikabk11"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:bkmce129@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -25,20 +23,20 @@
 ## 👋 About Me
 
 ```python
-class Developer:
-    name       = "YOUR FULL NAME"
-    location   = "Karnataka, India 🇮🇳"
-    education  = "B.E. — YOUR BRANCH @ YOUR COLLEGE (CGPA: X.XX)"
+class BhoomikaBK:
+    name       = "Bhoomika B K"
+    location   = "Hassan, Karnataka, India 🇮🇳"
+    education  = "B.E. — Information Science & Engineering @ Malnad College of Engineering (CGPA: 8.44)"
 
     current_focus = [
-        "Building AI-powered apps with Python",
-        "Exploring Machine Learning & real-time movement analysis",
-        "Shipping full-stack projects with Django",
+        "Applied deep learning for medical imaging (PyTorch)",
+        "Computer vision for real-time movement analysis",
+        "Shipping full-stack apps with Django & Firebase",
     ]
 
-    open_to = ["AI/ML Internships", "Full-Stack Roles", "Open Source Collabs"]
+    open_to = ["AI/ML Internships", "Software Engineering Roles", "Open Source Collabs"]
 
-    contact = "YOUR-EMAIL@gmail.com"
+    contact = "bkmce129@gmail.com"
 ```
 
 ---
@@ -47,11 +45,22 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,django,html,css,js,sqlite,git,github,vscode&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=py,java,c,r,pytorch,django,html,firebase,aws,linux,git,github,figma,vscode,pycharm&theme=dark" alt="skills"/>
 
 </div>
 
-> ✏️ Keep only the tools you actually use. Add more from https://skillicons.dev (e.g. `react`, `flask`, `opencv`, `tensorflow`, `pytorch`, `mysql`).
+**Core:** Data Structures & Algorithms · OOP · DBMS · SQL · Operating Systems
+**AI/ML:** Machine Learning · Deep Learning · Computer Vision · PyTorch
+
+---
+
+## 🏆 Highlights
+
+- 💰 Secured **₹2,00,000 funding** from **New Age Innovation Network (NAIN 2.0)** for a patented, published research project
+- 🎤 Presented research findings at **IIIT Bangalore**
+- ☁️ **AWS Fundamentals**: 60-hour hands-on training (EC2, S3)
+- 🎓 NPTEL certified: **Ethical Hacking** and **Public Speaking**
+- 🤝 Active member, **ME-RIISE Foundation (MCE)**: organised student hackathons and technical events
 
 ---
 
@@ -61,66 +70,60 @@ class Developer:
   <tr>
     <td width="50%" valign="top">
 
-### 🏃 [Intelligent Movement Analysis](https://github.com/bhoomikabk11/miniproject01)
-Real-time monitoring and feedback system for **assisted physiotherapy**, analysing body movement to guide patients through exercises.
+### 🩸 AI-Based Portable Vein Detection System
+Portable device using **near-infrared (NIR) imaging** and a **Hybrid U-Net + Attention U-Net** pipeline to segment veins and assist clinicians during IV cannulation.
 
-`Python` · `AI/ML` · `Computer Vision`
+`Python` · `PyTorch` · `Computer Vision` · `NIR Imaging`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🏃 [Intelligent Movement Analysis for Physiotherapy](https://github.com/bhoomikabk11/miniproject01)
+Real-time system that tracks motion patterns to monitor exercises and give patients corrective feedback.
+
+`Python` · `Computer Vision`
 
 ⭐ [View Repo](https://github.com/bhoomikabk11/miniproject01)
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 🐾 [Pet Adoption & Rehoming Portal](https://github.com/bhoomikabk11/Micro-project-fullstack-7)
-Django-based full-stack web portal that connects pets with adopters and supports rehoming. Built as a team project (Team 7).
+Django-based full-stack portal connecting pets with adopters and supporting rehoming. Built as a team project (Team 7).
 
-`Python` · `Django` · `HTML/CSS`
+`Python` · `Django` · `HTML`
 
 ⭐ [View Repo](https://github.com/bhoomikabk11/Micro-project-fullstack-7)
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
-### 🤖 [AI Mini Game](https://github.com/bhoomikabk11/ai_mini_game)
-Interactive AI-based game with intelligent game logic and a responsive, engaging user experience.
+### 💰 [Personal Finance Tracker](https://github.com/bhoomikabk11/expence_tracker)
+Real-time expense tracker on **Firebase** with categorisation, budget management and spending analytics.
 
-`AI Logic` · `Interactive UI`
-
-⭐ [View Repo](https://github.com/bhoomikabk11/ai_mini_game)
-
-</td>
-    <td width="50%" valign="top">
-
-### 📊 [AIML Project](https://github.com/bhoomikabk11/AIML_project)
-Machine learning project that analyses data, generates predictions and produces intelligent outputs using ML algorithms.
-
-`Python` · `Machine Learning` · `Data Analysis`
-
-⭐ [View Repo](https://github.com/bhoomikabk11/AIML_project)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💰 [Expense Tracker](https://github.com/bhoomikabk11/expence_tracker)
-User-friendly web app to add, categorise and track daily expenses with a clean interface.
-
-`Web App` · `CRUD` · `UI/UX`
+`Firebase` · `Python` · `Realtime DB`
 
 ⭐ [View Repo](https://github.com/bhoomikabk11/expence_tracker)
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
-### 🌲 [Forest](https://github.com/bhoomikabk11/Forest)
-Python project exploring forest-related data / modelling.
+### 🔗 Blockchain Product Authenticity Checker
+Decentralised verification system that detects counterfeit goods and keeps the supply chain transparent.
 
-`Python`
+`Blockchain` · `Python`
 
-⭐ [View Repo](https://github.com/bhoomikabk11/Forest)
+</td>
+    <td width="50%" valign="top">
+
+### 🤖 [AI Mini Game](https://github.com/bhoomikabk11/ai_mini_game) · 📊 [AIML Project](https://github.com/bhoomikabk11/AIML_project)
+An interactive game with intelligent game logic, and an ML project that analyses data and generates predictions.
+
+`Python` · `Machine Learning`
 
 </td>
   </tr>
@@ -147,7 +150,7 @@ Python project exploring forest-related data / modelling.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikabk11&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
+<img src="https://ghchart.rshah.org/6C63FF/bhoomikabk11" alt="contribution chart" width="90%"/>
 
 </div>
 
@@ -155,18 +158,16 @@ Python project exploring forest-related data / modelling.
 
 ## 🎯 Currently
 
-- 🔭 Working on: **YOUR CURRENT PROJECT**
-- 🌱 Learning: **Deep Learning, Computer Vision, REST APIs**
+- 🔭 Working on: **AI for healthcare: medical image segmentation**
+- 🌱 Learning: **Deep Learning, Computer Vision, REST APIs, AWS**
 - 🤝 Looking to collaborate on: **AI/ML and full-stack projects**
-- 💬 Ask me about: **Python, Django, Machine Learning**
-- ⚡ Fun fact: **YOUR FUN FACT**
+- 💬 Ask me about: **Python, Django, PyTorch, Firebase**
+- ⚡ Fun fact: **My vein-detection project got real funding and a patent behind it**
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=100&section=footer" width="100%" alt="footer"/>
-
-**⭐ If you like my work, drop a star on a repo — it means a lot!**
+**⭐ If you like my work, drop a star on a repo. It means a lot!**
 
 </div>
