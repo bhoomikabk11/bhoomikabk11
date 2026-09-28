@@ -45,7 +45,7 @@ class BhoomikaBK:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,c,r,pytorch,django,html,firebase,aws,linux,git,github,figma,vscode,pycharm&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=py,java,c,r,js,nodejs,express,pytorch,django,html,firebase,aws,linux,git,github,figma,vscode,pycharm&theme=dark" alt="skills"/>
 
 </div>
 
@@ -112,10 +112,12 @@ Real-time expense tracker on **Firebase** with categorisation, budget management
   <tr>
     <td width="50%" valign="top">
 
-### 🔗 Blockchain Product Authenticity Checker
-Decentralised verification system that detects counterfeit goods and keeps the supply chain transparent.
+### 🔗 [Blockchain Product Authenticity Checker](https://github.com/bhoomikabk11/blockchain-auth-checker)
+Anti-counterfeit system using blockchain principles, **SHA-256 hashing** and **QR codes** for secure product registration, verification and traceability.
 
-`Blockchain` · `Python`
+`Node.js` · `Express` · `JavaScript` · `Blockchain`
+
+⭐ [View Repo](https://github.com/bhoomikabk11/blockchain-auth-checker)
 
 </td>
     <td width="50%" valign="top">
@@ -128,21 +130,6 @@ An interactive game with intelligent game logic, and an ML project that analyses
 </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhoomikabk11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikabk11&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=bhoomikabk11&theme=tokyonight&hide_border=true" alt="streak"/>
-
-</div>
 
 ---
 
