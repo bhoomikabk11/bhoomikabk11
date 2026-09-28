@@ -2,14 +2,15 @@
 
 # 👋 Hi, I'm Bhoomika B K
 
-### Final-Year Information Science Engineer | Full-Stack Developer | AI & Computer Vision Enthusiast
+### Final-Year Information Science Engineer
+### Full-Stack Developer • AI/ML • Computer Vision • UI/UX
 
 <p>
   <a href="https://github.com/bhoomikabk11">
-    <img src="https://img.shields.io/badge/GitHub-bhoomikabk11-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-bhoomikabk11-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://bhoomikabk11.github.io/bhoomika_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7B61FF?style=for-the-badge&logo=googlechrome">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7B61FF?style=for-the-badge&logo=googlechrome" />
   </a>
 </p>
 
@@ -19,99 +20,101 @@
 
 ## 👩‍💻 About Me
 
-I'm a final-year Information Science & Engineering student who enjoys
-turning ideas into practical software solutions.
+I'm a final-year **Information Science & Engineering** student who enjoys turning ideas into practical, user-focused software.
 
-I love building applications that combine **software development,
-artificial intelligence and real-world problem solving.**
+I like working across the stack — from designing interfaces and building web applications to exploring **AI, computer vision and cloud technologies**.
 
-### 🚀 What I work with
+```text
+What I enjoy
+│
+├── 🌐 Full-Stack Web Development
+├── 🎨 Frontend & UI/UX
+├── 🤖 Artificial Intelligence & Machine Learning
+├── 👁️ Computer Vision
+├── ☁️ Cloud & Firebase
+└── 🚀 Building Real-World Solutions
+🎯 Currently looking for
 
-- 💻 Full-Stack Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision
-- ☁️ Cloud & Firebase
-- 🎨 UI/UX & Frontend Development
+Software Engineering • Full-Stack Development • Frontend Development • AI/ML Opportunities
 
-Currently exploring opportunities in:
+🛠️ Tech Stack
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" /> </p>
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,javascript,django,flask,bootstrap,tailwind" /> </p>
+🤖 AI / ML / Computer Vision
+<p> <img src="https://skillicons.dev/icons?i=python,opencv" /> </p>
 
-**Software Engineering • Full-Stack Development • Frontend Development • AI/ML**
+Also worked with:
+MediaPipe • NumPy • Chart.js • Machine Learning
 
----
+☁️ Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma,aws" /> </p>
+🚀 Featured Projects
+🏥 PhysioTrack
+Intelligent Movement Analysis for Assisted Physiotherapy
 
-## 🛠️ Tech Stack
+An AI-powered physiotherapy assistance system that uses real-time pose estimation and computer vision to analyse exercises and provide movement feedback.
 
-### Languages
+Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript">
-</p>
+Python Flask OpenCV MediaPipe Firebase JavaScript Chart.js
 
-### Web Development
+🔗 View Repository
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,django,flask,bootstrap,tailwind">
-</p>
+🐾 Pet Adoption Portal
 
-### AI / Computer Vision
+A Django-based web application designed to simplify the process of pet adoption and rehoming.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,opencv">
-</p>
+Features
+🔐 User authentication
+🐶 Pet listings
+📷 Pet image uploads
+👤 Owner / rehoming workflow
+🗄️ Database management
+🌐 Responsive web interface
 
-`MediaPipe` • `NumPy` • `Chart.js`
+Tech Stack
 
-### Tools & Platforms
+Python Django HTML CSS SQLite
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma">
-</p>
+🔗 View Repository
 
----
+💰 Expense Tracker
 
-# 🚀 Featured Projects
+A web application designed to help users record, organize and track their daily expenses.
 
-### 🏥 PhysioTrack
-**Intelligent Movement Analysis for Assisted Physiotherapy**
+Focus
 
-AI-powered physiotherapy assistance using real-time pose estimation
-and computer vision to monitor exercises and provide feedback.
+Web Development UI Data Management
 
-**Tech:** Python • Flask • OpenCV • MediaPipe • Firebase • JavaScript • Chart.js
+🔗 View Repository
 
-🔗 [View Project](https://github.com/bhoomikabk11/miniproject01)
+🤖 AI Mini Game
 
----
+An interactive project combining programming, user interaction and AI-based logic.
 
-### 🐾 Pet Adoption Portal
+🔗 View Repository
 
-A Django-based web application designed to simplify responsible
-pet adoption and rehoming.
+🧠 Beyond Coding
 
-**Tech:** Python • Django • HTML • CSS • SQLite
+I enjoy exploring technology through:
 
-🔗 [View Project](https://github.com/bhoomikabk11/Micro-project-fullstack-7)
-
----
-
-### 💰 Expense Tracker
-
-A web application for managing and tracking daily expenses
-with a simple and user-friendly interface.
-
-🔗 [View Project](https://github.com/bhoomikabk11/expence_tracker)
-
----
-
-## 🏆 Highlights
+🏆 Hackathons
+🚀 Innovation & entrepreneurship events
+🎨 UI/UX design
+🧪 Research & experimentation
+☁️ Cloud technologies
+🤖 AI-powered applications
+🏆 Highlights
 
 🎓 Final-Year Information Science & Engineering Student
 
-🚁 Mentored a team in Drone Quest Bootcamp
+🚁 Drone Quest Bootcamp — Team Mentor
 
-🏆 Runner-Up – Drone Quest
+🥈 Runner-Up — Drone Quest
 
-🧠 NAIN 2.0 Medical Technology Project
+🧠 NAIN 2.0 — Medical Technology Project
 
 💻 Hackathons & Technical Events
 
@@ -119,27 +122,88 @@ with a simple and user-friendly interface.
 
 ☁️ AWS & Cloud Computing Training
 
----
+🔬 Research & Innovation
+🩺 AI-Based Portable Vein Detection System
 
-## 📊 GitHub Stats
+Exploring a portable medical imaging system using Near-Infrared imaging and deep learning for vein detection.
 
-<div align="center">
+Technologies explored
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhoomikabk11&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+Python Deep Learning Computer Vision U-Net Flask Image Processing
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikabk11&layout=compact&theme=tokyonight&hide_border=true" height="170">
+The goal is to develop a compact and affordable solution that can assist in vein visualization.
 
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```text
+🌱 Currently Learning
+Frontend Development
+        ↓
 Full-Stack Development
+        ↓
+REST APIs & Backend Systems
         ↓
 AI & Computer Vision
         ↓
 Cloud & Deployment
         ↓
 Production-Ready Applications
+
+Currently strengthening my knowledge in:
+
+Advanced JavaScript
+Django & Flask
+REST APIs
+Frontend development
+Cloud deployment
+AI-powered applications
+Software engineering practices
+💼 What I Bring
+Problem Solving       →  Turning ideas into working solutions
+
+Development           →  Building practical web applications
+
+AI & Computer Vision  →  Exploring intelligent systems
+
+UI/UX                 →  Creating clean and usable interfaces
+
+Learning              →  Constantly experimenting with new technologies
+📌 My Developer Journey
+        🎓 Engineering Student
+                │
+                ▼
+        💻 Build Projects
+                │
+                ▼
+       🌐 Full-Stack Development
+                │
+                ▼
+        🤖 Explore AI / ML
+                │
+                ▼
+       👁️ Computer Vision
+                │
+                ▼
+       ☁️ Cloud & Deployment
+                │
+                ▼
+        🚀 Software Engineer
+🤝 Let's Connect
+
+I'm always interested in connecting with developers, recruiters, innovators and people building interesting technology.
+
+🌐 Portfolio
+
+Visit My Portfolio
+
+💻 GitHub
+
+github.com/bhoomikabk11
+
+💼 LinkedIn
+
+Connect with me on LinkedIn
+
+<div align="center">
+💡 Build. Learn. Experiment. Repeat. 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div> ```
